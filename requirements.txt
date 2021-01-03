@@ -1,0 +1,12 @@
+tqdm==4.32.1
+numpy==1.16.4
+mkinit==0.2.0
+six==1.12.0
+scipy==1.2.1
+torch==1.7.0
+opencv_python==4.2.0.34
+torchvision==0.8.1
+auto_mix_prep==0.2.0
+Pillow==8.1.0
+scikit_learn==0.24.0
+
